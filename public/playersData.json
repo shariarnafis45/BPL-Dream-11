@@ -1,0 +1,202 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 150000,
+    "rating": 9.8,
+    "playingStyle": "Top-order aggressive batsman",
+    "img": "https://i.imgur.com/1.jpg"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 140000,
+    "rating": 9.6,
+    "playingStyle": "Classical top-order batsman",
+    "img": "https://i.imgur.com/2.jpg"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 135000,
+    "rating": 9.5,
+    "playingStyle": "Anchor batsman",
+    "img": "https://i.imgur.com/3.jpg"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 130000,
+    "rating": 9.4,
+    "playingStyle": "Technical batsman",
+    "img": "https://i.imgur.com/4.jpg"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 145000,
+    "rating": 9.7,
+    "playingStyle": "Unorthodox batsman",
+    "img": "https://i.imgur.com/5.jpg"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 155000,
+    "rating": 9.6,
+    "playingStyle": "All-rounder",
+    "img": "https://i.imgur.com/6.jpg"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 120000,
+    "rating": 9.5,
+    "playingStyle": "All-rounder",
+    "img": "https://i.imgur.com/7.jpg"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 140000,
+    "rating": 9.6,
+    "playingStyle": "Explosive opener",
+    "img": "https://i.imgur.com/8.jpg"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 135000,
+    "rating": 9.4,
+    "playingStyle": "Aggressive opener",
+    "img": "https://i.imgur.com/9.jpg"
+  },
+  {
+    "playerName": "AB de Villiers",
+    "playerCountry": "South Africa",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 160000,
+    "rating": 9.9,
+    "playingStyle": "360-degree batsman",
+    "img": "https://i.imgur.com/10.jpg"
+  },
+  {
+    "playerName": "MS Dhoni",
+    "playerCountry": "India",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 150000,
+    "rating": 9.8,
+    "playingStyle": "Finisher & wicketkeeper",
+    "img": "https://i.imgur.com/11.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 145000,
+    "rating": 9.7,
+    "playingStyle": "Death over specialist",
+    "img": "https://i.imgur.com/12.jpg"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 140000,
+    "rating": 9.6,
+    "playingStyle": "Fast bowler",
+    "img": "https://i.imgur.com/13.jpg"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 135000,
+    "rating": 9.5,
+    "playingStyle": "Swing bowler",
+    "img": "https://i.imgur.com/14.jpg"
+  },
+  {
+    "playerName": "Lasith Malinga",
+    "playerCountry": "Sri Lanka",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 130000,
+    "rating": 9.4,
+    "playingStyle": "Yorker specialist",
+    "img": "https://i.imgur.com/15.jpg"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "price": 140000,
+    "rating": 9.3,
+    "playingStyle": "Power-hitting all-rounder",
+    "img": "https://i.imgur.com/16.jpg"
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 150000,
+    "rating": 9.6,
+    "playingStyle": "Explosive all-rounder",
+    "img": "https://i.imgur.com/17.jpg"
+  },
+  {
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 130000,
+    "rating": 9.4,
+    "playingStyle": "Power hitter",
+    "img": "https://i.imgur.com/18.jpg"
+  },
+  {
+    "playerName": "Muttiah Muralitharan",
+    "playerCountry": "Sri Lanka",
+    "batingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 125000,
+    "rating": 9.7,
+    "playingStyle": "Spin bowler",
+    "img": "https://i.imgur.com/19.jpg"
+  },
+  {
+    "playerName": "Wasim Akram",
+    "playerCountry": "Pakistan",
+    "batingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 135000,
+    "rating": 9.8,
+    "playingStyle": "Swing king",
+    "img": "https://i.imgur.com/20.jpg"
+  }
+]
