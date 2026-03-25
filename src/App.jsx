@@ -1,13 +1,16 @@
-
-import './App.css'
+import "./App.css";
+import Hero from "./components/Homepage/Hero/Hero";
+import Nav from "./components/Homepage/Nav/Nav";
 
 function App() {
-
   return (
     <>
-      <h2 className='text-4xl'>Hello World</h2>
+      <header>
+        <Nav></Nav>
+        <Hero></Hero>
+      </header>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
