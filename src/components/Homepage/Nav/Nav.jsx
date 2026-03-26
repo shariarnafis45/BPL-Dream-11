@@ -2,7 +2,7 @@ import React from "react";
 import Logo from "../../../assets/logo-footer.png";
 import { CirclePoundSterling } from "lucide-react";
 
-const Nav = () => {
+const Nav = ({coin}) => {
   return (
     <div className="">
       <div className="navbar bg-base-100 w-11/12 mx-auto">
@@ -61,7 +61,7 @@ const Nav = () => {
               <a href="">Schedules</a>
             </li>
           </ul>
-          <a className="btn rounded-lg"><span>0</span> Coin <CirclePoundSterling className="text-yellow-500"></CirclePoundSterling></a>
+          <a className="btn rounded-lg"><span>{coin}</span> Coin <CirclePoundSterling className="text-yellow-500"></CirclePoundSterling></a>
         </div>
       </div>
     </div>
