@@ -21,7 +21,7 @@ function App() {
         <Hero></Hero>
       </header>
       <main>
-        <Suspense fallback={<LineWave color="black"></LineWave>}>
+        <Suspense fallback={<div className="flex items-center justify-center min-h-screen"><LineWave color="black"></LineWave></div>}>
           <PlayersCardSection playersDataPromise={playersDataPromise}></PlayersCardSection>
         </Suspense>
       </main>

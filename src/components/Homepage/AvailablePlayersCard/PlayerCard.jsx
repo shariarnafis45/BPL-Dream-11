@@ -3,7 +3,6 @@ import { FaCircleUser } from "react-icons/fa6";
 import { IoFlag } from "react-icons/io5";
 
 const PlayerCard = ({ playerData }) => {
-  console.log(playerData);
   return (
     <div>
       <div className="card bg-base-100  shadow-md">
