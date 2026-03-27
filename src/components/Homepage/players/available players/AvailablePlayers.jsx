@@ -5,7 +5,7 @@ const AvailablePlayers = ({playersData,coin,setCoin,setSelectedPlayers, selected
   return (
     <div>
       <div className="players-card-container  grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {playersData.map((playerData, index) => (
+        { playersData.map((playerData, index) => (
           <PlayerCard selectedPlayers={selectedPlayers} setSelectedPlayers={setSelectedPlayers} coin={coin} setCoin={setCoin} key={index} playerData={playerData}></PlayerCard>
         ))}
       </div>
