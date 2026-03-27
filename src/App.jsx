@@ -4,6 +4,7 @@ import Hero from "./components/Homepage/Hero/Hero";
 import Nav from "./components/Homepage/Nav/Nav";
 import PlayersCardSection from "./components/Homepage/players/PlayersCardSection";
 import { LineWave } from "react-loader-spinner";
+import { ToastContainer } from "react-toastify";
 
 // player data promise
 const playersDatafetch = async () => {
@@ -36,6 +37,9 @@ function App() {
           ></PlayersCardSection>
         </Suspense>
       </main>
+
+
+      <ToastContainer />
     </>
   );
 }

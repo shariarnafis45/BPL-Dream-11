@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { FaCircleUser } from "react-icons/fa6";
 import { IoFlag } from "react-icons/io5";
+import { toast } from "react-toastify";
 
 const PlayerCard = ({
   playerData,
@@ -12,14 +13,18 @@ const PlayerCard = ({
   const [isSelected, setIsSelected] = useState(false);
   const handleChoosePlayer = () => {
     if (coin < playerData.price) {
-      alert("Not Enough Coin");
+      toast.warn('Not Enough Coin', {
+        'position' : "top-center",
+      })
       return;
     } else {
-      alert(`${playerData.playerName} Is Selected`);
+      toast.success(`${playerData.playerName} Is Selected`, {
+        'position' : "top-center"
+      })
       setCoin(coin - playerData.price);
     }
     setIsSelected(true);
-    setSelectedPlayers([...selectedPlayers, playerData])
+    setSelectedPlayers([...selectedPlayers, playerData]);
   };
   return (
     <div>
